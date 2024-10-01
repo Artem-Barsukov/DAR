@@ -7,7 +7,7 @@ router = APIRouter(tags=["API для хранения файлов"])
 """
 Задание_6. 
 
-Изучите следущие классы в модуле app.core: BaseWriter, DataGenerator
+Изучите следующие классы в модуле app.core: BaseWriter, DataGenerator
 
 API должно принимать json, по типу:
 {
